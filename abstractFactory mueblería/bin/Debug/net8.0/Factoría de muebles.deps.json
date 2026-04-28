@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Factoría de muebles/1.0.0": {
+        "runtime": {
+          "Factoría de muebles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factoría de muebles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

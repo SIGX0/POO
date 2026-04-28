@@ -1,0 +1,28 @@
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\bin\Debug\net8.0\Factoría de muebles.exe
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\bin\Debug\net8.0\Factoría de muebles.deps.json
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\bin\Debug\net8.0\Factoría de muebles.runtimeconfig.json
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\bin\Debug\net8.0\Factoría de muebles.dll
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\bin\Debug\net8.0\Factoría de muebles.pdb
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.AssemblyInfo.cs
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.dll
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\refint\Factoría de muebles.dll
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.pdb
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\Factoría de muebles.genruntimeconfig.cache
+C:\Users\EQUIPO\OneDrive\Desktop\Estructura de datos y POO\C#\Archivos POO\Factoría de muebles\obj\Debug\net8.0\ref\Factoría de muebles.dll
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\bin\Debug\net8.0\Factoría de muebles.exe
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\bin\Debug\net8.0\Factoría de muebles.deps.json
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\bin\Debug\net8.0\Factoría de muebles.runtimeconfig.json
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\bin\Debug\net8.0\Factoría de muebles.dll
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\bin\Debug\net8.0\Factoría de muebles.pdb
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.AssemblyInfoInputs.cache
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.AssemblyInfo.cs
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.csproj.CoreCompileInputs.cache
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.dll
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\refint\Factoría de muebles.dll
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.pdb
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\Factoría de muebles.genruntimeconfig.cache
+C:\Users\samyg\OneDrive\Desktop\POO\abstractFactory mueblería\obj\Debug\net8.0\ref\Factoría de muebles.dll
