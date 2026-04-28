@@ -1,0 +1,14 @@
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\bin\Debug\net8.0\FactoryMethodN.exe
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\bin\Debug\net8.0\FactoryMethodN.deps.json
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\bin\Debug\net8.0\FactoryMethodN.runtimeconfig.json
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\bin\Debug\net8.0\FactoryMethodN.dll
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\bin\Debug\net8.0\FactoryMethodN.pdb
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.AssemblyInfoInputs.cache
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.AssemblyInfo.cs
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.csproj.CoreCompileInputs.cache
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.dll
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\refint\FactoryMethodN.dll
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.pdb
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\FactoryMethodN.genruntimeconfig.cache
+C:\Users\samyg\OneDrive\Desktop\POO\FactoryMethodN-master\obj\Debug\net8.0\ref\FactoryMethodN.dll
